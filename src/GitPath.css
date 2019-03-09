@@ -1,3 +1,8 @@
 #urls{
     color: grey;
 }
+
+.hours {
+    position: center;
+    font-size: 12px;
+}
